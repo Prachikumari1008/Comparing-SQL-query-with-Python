@@ -43,9 +43,7 @@ DBMS provides an environment to store and retrieve the data in coinvent and effi
 
 - Character String Data Types:CHAR(n), VARCHAR(n), TEXT, VARCHAR(MAX)
 
-- Binary Data Types: BINARY(n) VARBINARY(n) BLOB VARBINARY(MAX)
-
-- Date and Time Data Types: DATE TIME DATETIME TIMESTAMP
+- Date and Time Data Types: DATE, TIME, DATETIME, TIMESTAMP
 
 - Boolean Data Type: BOOLEAN
 
