@@ -1,15 +1,20 @@
-## SQL 
+## Here we are comparing the SQL query with Python code by exporting the Database into the CSV file and then using it as a Dataset in Python Pandas .
+
+
+## Some Basics Concepts for SQL 
+
+### SQL 
 SQL, or Structured Query Language, is a language specifically designed for accessing and interacting with databases. It allows users to create tables, modify data, and retrieve information in a fast and efficient manner.
 
-## Database 
+### Database 
 A database is a collection of organised data that can be easily stored, sorted, retrieved and searched. 
 
-## Database Management System
+### Database Management System
 A Database Management System (DBMS) is a software system that is designed to manage and organize data in a structured manner. It allows users to create, modify, and query a database, as well as manage the security and access controls for that database.
 
 DBMS provides an environment to store and retrieve the data in coinvent and efficient manner.
 
-## Database Languages
+### Database Languages
 1. Data Definition Language (DDL):
 
      CREATE: Creates new database objects such as tables, indexes, views, or stored procedures.
@@ -38,7 +43,7 @@ DBMS provides an environment to store and retrieve the data in coinvent and effi
 
      SELECT: Retrieves data from one or more tables based on specified criteria.
 
-## SQL DataTypes
+### SQL DataTypes
 - Numeric Data Types: INTEGER , BIGINT, DECIMAL, FLOAT, NUMERIC
 
 - Character String Data Types:CHAR(n), VARCHAR(n), TEXT, VARCHAR(MAX)
